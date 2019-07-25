@@ -1,0 +1,18 @@
+button{
+  width: 200px;
+  height: 60px;
+  border: 2px solid black;
+  font-size:18px;
+  color:white;
+  margin-bottom: 10px;
+}
+.danger{
+  background:red;
+}
+#box{
+  width: 200px;
+  height: 100px;
+  border:2px solid black;
+  border: 2px solid black;
+  transition: 500ms;
+}
